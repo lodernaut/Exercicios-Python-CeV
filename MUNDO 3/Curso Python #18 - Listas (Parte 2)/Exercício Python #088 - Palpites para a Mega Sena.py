@@ -11,3 +11,4 @@ for c in range(quant_jogos):
     jogo.sort()
     print(f'{color[1]} Jogo {c+1}: {color[0]}',f' {color[2]}-{color[0]}'.join(str(f'{jogo:>3}')for jogo in jogo))
 print(f'{color[2]}~{color[0]}'*40)
+
