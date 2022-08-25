@@ -11,3 +11,4 @@ for l in range(3):
                         somapares += lista[l][c]
         print(f' - LINHA.Mariz #{l}')
         print()
+        
