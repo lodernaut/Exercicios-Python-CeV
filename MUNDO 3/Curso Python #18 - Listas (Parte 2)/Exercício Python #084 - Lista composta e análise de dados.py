@@ -27,3 +27,4 @@ print(f'\nO menor peso é {menor} de ',end='')
 for p in lista:
     if p[1] == menor:
         print(f'{p[0]}. ',end='')
+ 
