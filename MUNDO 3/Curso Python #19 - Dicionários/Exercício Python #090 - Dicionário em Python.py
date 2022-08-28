@@ -10,3 +10,5 @@ else:
 print('=-='*15)
 for k,v in dados_alunos.items():
     print(f'  - {k} é igual a {v}')
+    
+  
