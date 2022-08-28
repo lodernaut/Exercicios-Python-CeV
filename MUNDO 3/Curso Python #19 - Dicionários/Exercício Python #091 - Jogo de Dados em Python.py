@@ -13,3 +13,4 @@ for i, j in enumerate(sorted(ficha, key=ficha.get, reverse=True)):
     print(f"  {color[2]}→{color[0]} {i+1}º Vencedor {j}. tirou o dado {ficha[j]}.".center(49))
 print(f'{color[2]}~{color[0]}'*50)
 
+
