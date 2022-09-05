@@ -11,4 +11,5 @@ if lista['CTPS'] > 0:
     lista['Salário'] = f"{salario:.2f}"
     lista['Aposentadoria'] = (lista['Contratação'] - nascimento) + 35
 for k, v in lista.items():
-    print(f"{k}: {v}")
+    print(f"{k}: {v}") 
+    
