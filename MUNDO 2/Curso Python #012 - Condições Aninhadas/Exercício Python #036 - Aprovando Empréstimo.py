@@ -14,3 +14,4 @@ if prestação <= mínimo:
     print('\033[32mEmpréstimo pode ser CONCEDIDO!\033[m')
 else:
     print('\033[31mEmpréstimo NEGADO!\033[m')
+
