@@ -1,2 +1,2 @@
-# Exercicios-Python-Resolvidos
+# Exercicios-Python-CeV
  
